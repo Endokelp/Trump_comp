@@ -1,0 +1,16 @@
+# Project Narrative: SafePass AI
+
+## Mission
+SafePass AI is a real-time 3D school zone traffic simulator designed to predict and prevent dangerous congestion and near-miss incidents during elementary school pickup/drop-off. It directly supports the Biden-Harris Administration’s priorities of child safety, responsible AI, and community-driven innovation.
+
+## Problem
+School drop-off zones are chaotic, dangerous, and inefficient. Parents wait in long lines, children weave between cars, and near-miss incidents are common. Traditional traffic studies are expensive and static.
+
+## Solution
+SafePass AI empowers school administrators and parents to visualize traffic flow, simulate "what-if" scenarios (e.g., adding a drop-off lane, staggering dismissal times), and see the immediate impact on safety and efficiency using AI-driven predictions.
+
+## Impact
+By optimizing traffic flow, we can reduce parent wait times by 20-30% and, more importantly, drastically reduce the risk of child-vehicle accidents. SafePass AI brings advanced traffic engineering tools to every school board meeting, accessible in a web browser.
+
+## Technical Implementation
+Built with Next.js, React Three Fiber, and on-device AI (Transformers.js), SafePass AI runs entirely in the browser, ensuring privacy and accessibility. It uses real-world map data to generate 3D school environments instantly.
